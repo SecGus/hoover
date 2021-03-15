@@ -1,6 +1,7 @@
 # hoover
 Simple tool to remove all files that match an md5sum.
 
+```
 Usage of ./hoover:
   -d string
         directory of files to check (default: cwd) (default "./")
@@ -10,6 +11,7 @@ Usage of ./hoover:
         md5sum of example bad image file
   -s string
         Flag to silence the binary
+```
 
 Example:
 ```
