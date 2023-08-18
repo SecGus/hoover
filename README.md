@@ -1,4 +1,4 @@
-# hoover
+# hoover (note this readme is out of date and needs to be addressed)
 Simple tool to remove all files that match an md5sum.
 
 ```
